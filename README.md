@@ -1,6 +1,8 @@
 # SalesData and MilkCollection DataAnalysis
 
-I performed data analysis on Primary Sales Data and Milk Collection Data of two different villages.
+I performed data analysis on :
+  (1) Primary Sales Data of a company and 
+  (2) Milk Collection Data of two different villages.
 
 I have tried to explain my approach to analyse these datasets in "Data Analysis-My Approach" - file. 
 
