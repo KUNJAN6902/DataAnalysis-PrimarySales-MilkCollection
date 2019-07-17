@@ -1,12 +1,13 @@
 # SalesData and MilkCollection DataAnalysis
 
-I performed data analysis on :
+=> I performed data analysis on :
   (1) Primary Sales Data of a company and 
   (2) Milk Collection Data of two different villages.
 
-I have tried to explain my approach to analyse these datasets in "Data Analysis-My Approach" - file. 
+"Milk collection Data Analysis" and "Sales Data Analysis" folders uploaded above contain datasets, PowerBI files and PowerBI PDF reports.
 
-On this repository, I have uploaded Datasets, Power BI files of both analysis & PDF reports generated from PowerBI.
+=> I have tried to explain my approach to analyse these datasets in "Data Analysis-My Approach.docx" - file. 
+
 
 Thank You,
 Kunjan Shah.
