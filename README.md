@@ -6,7 +6,7 @@
 
 "Milk collection Data Analysis" and "Sales Data Analysis" folders uploaded above contain datasets, PowerBI files and PowerBI PDF reports.
 
-=> I have tried to explain my approach to analyse these datasets in "Data Analysis-My Approach.docx" - file. 
+=> I have explained my thought process to analyse these datasets in "Data Analysis-My Approach.docx" - file. 
 This file answers why I have built PowerBI reports in such way.
 
 Thank You,
