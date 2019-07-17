@@ -6,7 +6,7 @@ I performed data analysis on :
 
 I have tried to explain my approach to analyse these datasets in "Data Analysis-My Approach" - file. 
 
-On this repository, You can find Datasets, Power BI files of both analysis & PDF reports generated from PowerBI.
+On this repository, I have uploaded Datasets, Power BI files of both analysis & PDF reports generated from PowerBI.
 
 Thank You,
 Kunjan Shah.
