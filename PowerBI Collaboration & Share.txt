@@ -1,0 +1,26 @@
+What's the best way to give teammates access to the dashboards you created ? 
+
+=> If colleagues need to keep the dashboard up to date, or need access to all the content in the workspace, consider adding them to the workspace.
+
+=> If colleagues just need to see a dashboard and not all the content in the workspace, you again have alternatives :
+
+[1] If a few people need just that one dashboard, then sharing the dashboard could be the best solution.
+
+[2] However, if the dashboard is part of a bigger set of content you need to distribute to many colleagues, then publishing an app is likely the best choice.
+
+For better understanding read following docs :
+
+#1 Collaborate in PowerBI
+=> Creating workspace and adding colleagues to workspace to work together + app workspace (for read only sharing)
+
+Refer section "Collaborate in Power BI" :
+https://docs.microsoft.com/en-us/power-bi/service-create-the-new-workspaces
+
+
+#2 Share work in PowerBI
+=> Sharing a dashboard or report to recipients to view and interact, but not editing
+
+Refer section "Publish and Share your work" :
+https://docs.microsoft.com/en-us/power-bi/service-share-dashboards
+
+Both of these features, are available in PowerBI service only (not in PowerBI Desktop). And, No matter which option you choose to share your content you need a Power BI Pro license, or the content needs to be in a PowerBI Premium capacity.
